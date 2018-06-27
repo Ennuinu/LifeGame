@@ -1,8 +1,3 @@
-#! /usr/bin/env python
-# -*- coding:utf-8 -*-
-#
-# written by ssh0, June 2014.
-
 import numpy as np
 import sys
 import time
